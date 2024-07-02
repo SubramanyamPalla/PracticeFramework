@@ -1,0 +1,15 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1719894718803' stop='1719894731701'>
+    <name>noCommerce Page Framework</name>
+    <title>noCommerce Page Framework</title>
+    <test-cases>
+        <test-case start='1719894718803' status='passed' stop='1719894731700'>
+            <name>Register User Place Order</name>
+            <title>Register User Place Order</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

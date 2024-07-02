@@ -1,0 +1,27 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1719894704119' stop='1719894715350'>
+    <name>Register Page Validation</name>
+    <title>Register Page Validation</title>
+    <test-cases>
+        <test-case start='1719894704119' status='failed' stop='1719894715330'>
+            <name>Validate Register Page</name>
+            <title>Validate Register Page</title>
+            <labels/>
+            <parameters/>
+            <steps/>
+            <attachments/>
+            <failure>
+                <message>Timed out retrying after 4000ms: Expected to find content: 'Your Account Has Been Created!' but never did.</message>
+                <stack-trace>AssertionError: Timed out retrying after 4000ms: Expected to find content: 'Your Account Has Been Created!' but never did.
+                    at Context.eval (webpack://framework/./cypress/support/PageObjects/naveenAutoRegisPage.cy.js:97:50)
+                    at wrapped (https://naveenautomationlabs.com/__cypress/runner/cypress_runner.js:137986:43)
+                    at &lt;unknown> (https://naveenautomationlabs.com/__cypress/runner/cypress_runner.js:143915:15)
+                    at tryCatcher (https://naveenautomationlabs.com/__cypress/runner/cypress_runner.js:1807:23)
+                    at Promise._settlePromiseFromHandler (https://naveenautomationlabs.com/__cypress/runner/cypress_runner.js:1519:31)
+                    at Promise._settlePromise (https://naveenautomationlabs.com/__cypress/runner/cypress_runner.js:1576:18)
+                    at Promise._settlePromise0 (https://naveenautomationlabs.com/__cypress/runner/cypress_runner.js:1621:10)
+                    at Promise._settlePromises (https://naveenautomationlabs.com/__cypress/runner/cypress_runner.js:1701:18)</stack-trace>
+            </failure>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

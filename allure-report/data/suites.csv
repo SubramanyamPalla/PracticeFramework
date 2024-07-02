@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Jul 02 10:02:15 IST 2024","Tue Jul 02 10:02:26 IST 2024","11923","","XYZ Bank suite","","XYZ Bank suite","Click On Manager Login Button","Click On Manager Login Button",""
+"passed","Tue Jul 02 10:01:58 IST 2024","Tue Jul 02 10:02:11 IST 2024","12897","","noCommerce Page Framework","","noCommerce Page Framework","Register User Place Order","Register User Place Order",""
+"failed","Tue Jul 02 10:01:44 IST 2024","Tue Jul 02 10:01:55 IST 2024","11211","","Register Page Validation","","Register Page Validation","Validate Register Page","Validate Register Page",""
+"passed","Tue Jul 02 10:01:39 IST 2024","Tue Jul 02 10:01:40 IST 2024","1382","","Naveen Automation Labs Login Page","","Naveen Automation Labs Login Page","Validation of the Login Page","Validation of the Login Page",""
